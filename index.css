@@ -204,14 +204,30 @@ margin-top: 30px;
       margin: auto;
       font-family: Helvetica, sans-serif;
       font-size: 17px;
+      padding: 12px;
       }
 
    main .sec1 #img,#img2,#img3{
-      width: 100%;
+      width: 95%;
    }
+
+   .sec1 .div2sec1 .p4sec1{
+     width: 420px;
+     margin-right: 50px;
+   }
+
+   .sec1 .div3sec1{
+      width: 465px;
+      margin-right:50px ;
+   }
+
+   .sec1 .div3sec1 .div31sec1 #p31:hover{
+      width: 200px;
+      text-align: center;
+  }
    
    .sec1 form input{
-      width: 480px;
+      width: 455px;
     }
   
  }
